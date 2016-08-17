@@ -1,0 +1,8 @@
+[nibbler-nodejs]
+name=Copr repo for nodejs owned by nibbler
+baseurl=https://copr-be.cloud.fedoraproject.org/results/nibbler/nodejs/fedora-$releasever-$basearch/
+skip_if_unavailable=True
+gpgcheck=1
+gpgkey=https://copr-be.cloud.fedoraproject.org/results/nibbler/nodejs/pubkey.gpg
+enabled=1
+enabled_metadata=1
