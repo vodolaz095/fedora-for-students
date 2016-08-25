@@ -1,4 +1,4 @@
-FROM fedora:23
+FROM fedora:24
 
 MAINTAINER https://github.com/vodolaz095/fedora-for-students/issues
 
